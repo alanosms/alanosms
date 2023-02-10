@@ -1,18 +1,23 @@
-# Hey there 👋
-Olá me chamo Alan seja bem-vindo(a) ao meu perfil do github :)
+<h2> Hi. I'm Alan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/50818058/218176239-a886dcb1-6066-46ed-9a46-e4ab568aece5.png" width="300">
+</em></p>
 
-* 👨‍💻 Estudante de Sistemas da Informação na UNIFIO.
-* 📚 Estágiario na <a target=”_blank” href="www.tcs.com">TCS Brasil.</a>
-<hr>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanosms/)](https://www.linkedin.com/in/alanosms/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alanosms/)](https://www.instagram.com/alanosms/)
-[![Hotmail](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alan-martins07@hotmail.com) 
-
-<hr>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanosms&show_icons=true&theme=github_dark" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanosms&layout=compact&langs_count=16&theme=github_dark" >
-</div>
-
- 
+```javascript
+const alan = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C", "Java"],
+    technologies: {
+        mobileApp: ["React Native"],
+        frontEnd: {
+            js: ["react"],
+            css: ["bootstrap"]
+        },
+        backEnd: ["node", "express", "springboot"],
+        },
+        databases: ["MySql"],
+        misc: ["arduino", "pic"]
+    }
+};
+```
