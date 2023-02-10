@@ -7,7 +7,7 @@
 ```javascript
 const alan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C", "Java"],
+    code: ["Javascript", "Java"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
