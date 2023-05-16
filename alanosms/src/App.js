@@ -18,13 +18,11 @@ function App() {
          <Typewriter
             onInit={(typewriter) => {
               typewriter
-                .changeDelay(100)
+                .changeDelay(60)
                 .start()
                 .typeString("Tenho interesse em linguagens como: <br>")
-                .changeDelay(70)
                 .typeString('<span style="color: #ffff00;"">JavaScript / NodeJS</span>')
                 .typeString(', ')
-                .pauseFor(100)
                 .typeString('<span style="color: #61DBFB;"">ReactJS </span>')
                 .typeString('e ')
                 .typeString('<span style="color: #4B8BBE;"">Pyt</span>')
