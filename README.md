@@ -17,7 +17,7 @@ const alan = {
         backEnd: ["Node", "Express", "SpringBoot"],
         },
         databases: ["MySql"],
-        misc: ["Arduino", "Pic", "ESP"]
+        misc: ["Arduino", "Pic", "ESP", "Networks"]
     }
 };
 ```
